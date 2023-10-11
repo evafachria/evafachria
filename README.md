@@ -1,7 +1,7 @@
 - 👋 Hallo World, I’m Eva Fachria
 - 👀 I’m a data enthusiast
 - 🌱 I’m currently learning data science and machine learning
-- 📫 you can reach me on instagram @evashahab21 or linkedin: https://www.linkedin.com/in/evafachria/
+- 📫 you can reach me on instagram @evashahab21 or gmail: eva21fachria@gmail.com
 
 
 <!---
